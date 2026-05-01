@@ -1,0 +1,23 @@
+fune-tuning/Untitled8_llama.ipynb
+# Docker related
+*.log
+*.out
+*.pid
+
+# Ignore env files 
+.env
+
+# Docker volumes / temp data
+*.tar
+*.gz
+
+# Python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+# Docker build artifacts 
+dist/
+build/

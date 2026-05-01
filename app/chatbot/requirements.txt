@@ -7,3 +7,6 @@ bitsandbytes
 boto3
 pydantic
 peft
+python-dotenv
+
+
